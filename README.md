@@ -3,8 +3,6 @@
 <h4>你好, 我是Rainbow-SPY</h4>
 <br></div>
 
-___
-
 <div align="center">
 
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
