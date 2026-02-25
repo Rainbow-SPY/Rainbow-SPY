@@ -12,7 +12,7 @@ ___
 ![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
 ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg" alt=""/>
-![Rider](https://github.com/Rainbow-SPY/Rainbow-SPY/blob/master/rider.svg)
+![Rider](https://github.com/Rainbow-SPY/Rainbow-SPY/blob/main/rider.svg)
 
 
 </div>
